@@ -14,8 +14,12 @@ public class Main {
 
         arr1.removeAt(6);
         arr1.indexOf(9);
-        arr1.verify();
+        arr1.max();
         arr1.print();
+        arr1.intersect(new int[]{1,2,3,4,5});
+        arr1.reverse();
+        arr1.insertAt(8,8);
+
 
     }
 }
