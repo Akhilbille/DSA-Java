@@ -8,6 +8,8 @@ public class P2ArraysUtil {
     }
 
     public  void arrayDemo(){
+
+        //Creating an array using new Keyword
         int[] arr = new int[5];
         printArray(arr);
         System.out.println();
